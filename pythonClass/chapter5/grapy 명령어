@@ -1,0 +1,2 @@
+plot, bar, barh, scatter => label
+pie, boxplot => labels
