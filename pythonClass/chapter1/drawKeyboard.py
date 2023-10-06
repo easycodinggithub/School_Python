@@ -17,7 +17,7 @@ def t_left():
     t1.forward(10)
 
 t1=t.Turtle()
-t1.pensize(10)
+        t1.pensize(10)
 
 t.onkey(t_up, "Up")
 t.onkey(t_down, "Down")

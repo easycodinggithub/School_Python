@@ -12,7 +12,7 @@ df2 = pd.read_csv('survey.csv')
 #
 # print(corr2)
 #
-# print(df2.income.corr(df2.stress))
+# print(df2.income.corrd(df2.stress))
 
 model = smf.ols(formula = 'jobSatisfaction~English', data = df2)
 
